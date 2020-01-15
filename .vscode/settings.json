@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/luiz-braz/.local/share/virtualenvs/bot-basic-tutorial-9LwgEu2v/bin/python",
+    "python.linting.flake8Args": [
+        "--max-line-length=140",
+    ],
+}

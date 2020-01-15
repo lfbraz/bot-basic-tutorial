@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Deploy settings
+deploy.sh
+*/deploymentTemplates/*
