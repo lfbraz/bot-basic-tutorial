@@ -131,3 +131,4 @@ dmypy.json
 # Deploy settings
 deploy.sh
 */deploymentTemplates/*
+*.zip
